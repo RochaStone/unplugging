@@ -1,0 +1,55 @@
+{
+  "name": "Wren Calloway",
+  "motif": "analog",
+  "lines": {
+    "card_title": "unplugged",
+    "intention": ""
+  },
+  "people": ["Marisol Vance"],
+  "items": [
+    {
+      "kind": "subscription",
+      "what": "the design app I open twice a year",
+      "cancel_at": "account settings, billing",
+      "why": "I pay for it every month and use it twice a year",
+      "needs_email": false
+    },
+    {
+      "kind": "tool",
+      "what": "the second project board",
+      "cancel_at": "workspace settings, delete workspace",
+      "needs_email": false
+    },
+    {
+      "kind": "client",
+      "what": "the retainer that books calls at midnight",
+      "person": "Dorian Pike",
+      "why": "the hours stopped fitting my life",
+      "needs_email": true,
+      "email_to": "Dorian Pike",
+      "subject": "Wrapping up our retainer",
+      "words": "I have loved building this with you. I am closing my retainer work at the end of next month, and I would love to hand everything over neatly before then."
+    },
+    {
+      "kind": "commitment",
+      "what": "the Tuesday networking breakfast",
+      "needs_email": true,
+      "email_to": "the breakfast organiser",
+      "words": "Thank you for having me all year. I am stepping back from Tuesdays from next month."
+    },
+    {
+      "kind": "habit",
+      "what": "checking email before breakfast",
+      "needs_email": false
+    },
+    {
+      "kind": "yes",
+      "what": "free coffee chats with Marisol Vance's whole team",
+      "why": "my calendar is mine again",
+      "needs_email": true,
+      "email_to": "Marisol Vance",
+      "words": "I would love to keep cheering you on. I am holding my calendar for paid work now, so I am stepping back from the coffee chats."
+    }
+  ],
+  "space_for": "slow mornings and the book I keep promising myself"
+}

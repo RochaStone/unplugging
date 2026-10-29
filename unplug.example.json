@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "motif": "",
+  "lines": {
+    "card_title": "",
+    "intention": ""
+  },
+  "people": [],
+  "items": [
+    {
+      "kind": "subscription",
+      "what": "",
+      "person": "",
+      "share_as": "",
+      "why": "",
+      "cancel_at": "",
+      "needs_email": false,
+      "email_to": "",
+      "subject": "",
+      "words": ""
+    }
+  ],
+  "space_for": ""
+}
